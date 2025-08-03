@@ -1,3 +1,29 @@
+# Dima 🇲🇦
+
+Dima est une application web collaborative destinée aux Marocains du pays et de la diaspora, permettant de :
+- Recenser des lieux d’intérêt (cafés, spots, monuments…)
+- Découvrir et référencer des salles de mariage
+- Acheter et vendre des articles localement
+- Construire une identité publique via un profil personnel riche
+
+## 🌍 Objectif
+
+Dima a pour ambition de devenir une plateforme sociale de proximité, ancrée dans la culture marocaine mais pensée pour s'étendre à d'autres communautés dans le monde.
+
+## 🛠 Stack utilisée
+
+- **Next.js 14** (App Router + TypeScript)
+- **Tailwind CSS**
+- **Prisma ORM**
+- **PostgreSQL**
+- **API Routes Next.js**
+- **(à venir) Auth: NextAuth.js**
+
+## 📁 Structure
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -34,3 +60,4 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
