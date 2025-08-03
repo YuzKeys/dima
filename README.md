@@ -21,6 +21,69 @@ Dima a pour ambition de devenir une plateforme sociale de proximité, ancrée da
 
 ## 📁 Structure
 
+```
+dima
+├─ eslint.config.mjs
+├─ next.config.ts
+├─ package-lock.json
+├─ package.json
+├─ postcss.config.mjs
+├─ public
+│  ├─ file.svg
+│  ├─ globe.svg
+│  ├─ next.svg
+│  ├─ vercel.svg
+│  └─ window.svg
+├─ README.md
+├─ src
+│  └─ app
+│     ├─ favicon.ico
+│     ├─ globals.css
+│     ├─ layout.tsx
+│     └─ page.tsx
+└─ tsconfig.json
+
+```
+
+
+## 🚧 En cours
+
+- [ ] Authentification
+- [ ] Module Lieux
+- [ ] Module Salles de mariage
+- [ ] Module Store
+- [ ] Profil utilisateur
+
+## 📸 Aperçu (à venir)
+
+---
+
+## 📌 Installation
+
+```bash
+git clone https://github.com/ton-user/dima.git
+cd dima
+npm install
+npm run dev
+
+
+> Made With ❤️ More to come....
+
+---
+
+#### 2. Crée un `.gitignore` (déjà généré normalement, mais à vérifier) :
+
+```bash
+# dependencies
+node_modules
+.env
+.next
+dist
+
+# prisma
+prisma/dev.db
+
+
 
 
 
@@ -61,3 +124,27 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
+
+```
+dima
+├─ eslint.config.mjs
+├─ next.config.ts
+├─ package-lock.json
+├─ package.json
+├─ postcss.config.mjs
+├─ public
+│  ├─ file.svg
+│  ├─ globe.svg
+│  ├─ next.svg
+│  ├─ vercel.svg
+│  └─ window.svg
+├─ README.md
+├─ src
+│  └─ app
+│     ├─ favicon.ico
+│     ├─ globals.css
+│     ├─ layout.tsx
+│     └─ page.tsx
+└─ tsconfig.json
+
+```
